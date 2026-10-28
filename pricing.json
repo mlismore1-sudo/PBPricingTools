@@ -1,0 +1,9 @@
+{
+  "bank_name": "Our Bank",
+  "annual_client_fee": "1800.00",
+  "dpm_rate_percent": "0.35",
+  "private_markets_rate_percent": "0.35",
+  "savings_threshold": "200000.00",
+  "savings_lower_tier_rate_percent": "4.00",
+  "savings_upper_tier_rate_percent": "3.50"
+}
